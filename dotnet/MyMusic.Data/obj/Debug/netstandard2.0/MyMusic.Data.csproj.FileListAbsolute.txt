@@ -1,0 +1,12 @@
+C:\Users\bw010\Documents\dotnet\MyMusic.Data\obj\Debug\netstandard2.0\MyMusic.Data.csprojAssemblyReference.cache
+C:\Users\bw010\Documents\dotnet\MyMusic.Data\obj\Debug\netstandard2.0\MyMusic.Data.AssemblyInfoInputs.cache
+C:\Users\bw010\Documents\dotnet\MyMusic.Data\obj\Debug\netstandard2.0\MyMusic.Data.AssemblyInfo.cs
+C:\Users\bw010\Documents\dotnet\MyMusic.Data\bin\Debug\netstandard2.0\MyMusic.Data.deps.json
+C:\Users\bw010\Documents\dotnet\MyMusic.Data\bin\Debug\netstandard2.0\MyMusic.Data.dll
+C:\Users\bw010\Documents\dotnet\MyMusic.Data\bin\Debug\netstandard2.0\MyMusic.Core.dll
+C:\Users\bw010\Documents\dotnet\MyMusic.Data\bin\Debug\netstandard2.0\MyMusic.Core.pdb
+C:\Users\bw010\Documents\dotnet\MyMusic.Data\obj\Debug\netstandard2.0\MyMusic.Data.csproj.CopyComplete
+C:\Users\bw010\Documents\dotnet\MyMusic.Data\bin\Debug\netstandard2.0\MyMusic.Data.pdb
+C:\Users\bw010\Documents\dotnet\MyMusic.Data\obj\Debug\netstandard2.0\MyMusic.Data.dll
+C:\Users\bw010\Documents\dotnet\MyMusic.Data\obj\Debug\netstandard2.0\MyMusic.Data.pdb
+C:\Users\bw010\Documents\dotnet\MyMusic.Data\obj\Debug\netstandard2.0\MyMusic.Data.csproj.CoreCompileInputs.cache
